@@ -6,11 +6,11 @@ PKG_NAME:=usteer
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=https://github.com/NilsRo/usteer.git
-PKG_SOURCE_DATE:=2024-11-11
-PKG_SOURCE_VERSION:=2be670f7a2e7a61b7ff002130d4091714308ca99
+PKG_SOURCE_URL=https://github.com/NilsRo/usteer-ng.git
+PKG_SOURCE_DATE:=2025-02-11
+PKG_SOURCE_VERSION:=92732c5941ba98ebfbd6d2dbf969d373faa03952
 
-PKG_MAINTAINER:=David Bauer <mail@david-bauer.net>
+PKG_MAINTAINER:=Nils Hendrik Rottgardt <n.rottgardt@gmail.com>
 PKG_LICENSE:=GPL-2.0-only
 
 PKG_BUILD_DEPENDS:=libpcap
